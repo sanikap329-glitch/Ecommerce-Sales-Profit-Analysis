@@ -15,7 +15,7 @@ This project analyzes e-commerce sales data to evaluate overall performance, pro
 - Regional profit contribution analysis
 
 ## 📈 Dashboard Preview
-![Dashboard](powerbi_dashboard.png)
+![Dashboard](e-commerce analysis.pbix)
 
 ## 💡 Business Insights
 - Furniture category contributes the highest profit
